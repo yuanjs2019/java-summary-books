@@ -19,6 +19,7 @@
 
 - java基础篇
     - [基础模块](#java基础模块)
+    - [面向对象](#java面向对象模块)
 
 
 
@@ -30,3 +31,4 @@
     - [流程控制](./doc/base/javabase/流程控制.md)
     - [数组及内存](./doc/base/javabase/数组及内存.md)
     - [二维数组](./doc/base/javabase/二维数组.md)
+- java面向对象模块
