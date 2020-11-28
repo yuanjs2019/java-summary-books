@@ -100,7 +100,7 @@ JDK - Java Development Kit - `Java开发工具包`。包含了开发工具和JRE
 
 **用于异常处理的关键字**： try  catch  finally  throw  throws
 
-**用于包的关键字 **： ackage  import              
+**用于包的关键字**： ackage  import              
 
 **其他修饰符关键字**： native  strictfp  transient  volatile  assert
 
