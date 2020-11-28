@@ -1,39 +1,18 @@
-# javaSummaryBooks
+# java知识类总结：javaSummaryBooks
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+![](https://badgen.net/badge/original/javaSummaryBooks/orange) ![](https://badgen.net/badge/organization/join%20us/138c7b) ![](https://badgen.net/badge/books/read%20together/cyan) ![](https://badgen.net/badge/readers/share%20together/cyan) ![](https://badgen.net/badge/PRs/welcome/green)
 
-#### 软件架构
-软件架构说明
+###介绍
 
+本仓库存放的是技术类知识点总结，专注于基础知识，应用架构，业务架构，中台架构治理之道和代码防腐相关知识。
+如果对您有帮助，您可以关注公众号【窝居java技术站】了解，同时点右上角 "Star" 支持一下，谢谢！
+如果您想获悉此仓库的实时更新信息，您可以点右上角 [![Fork me on Gitee](./img/forkme.svg)](https://gitee.com/yuan625/java-summary-books)感谢您的支持！
+本项目还在不断开发完善中,如有建议或问题请通Issues反馈！
 
-#### 安装教程
+####公众号: 窝居java技术站
+更多技术类文章，请扫描下方二维码，关注公众号窝居java技术站
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![](./img/gongzhonghao.jpg)
 
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+###目录
