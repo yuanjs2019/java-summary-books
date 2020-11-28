@@ -26,3 +26,4 @@
 
 - java基础模块
     - [java介绍,关键字标识符，注释](./doc/base/javabase/java介绍,关键字标识符，注释.md)
+    - [编码，常量，转义字符，进制，数据类型](./doc/base/javabase/编码，常量，转义字符，进制，数据类型.md)
