@@ -9,6 +9,8 @@
 如果您想获悉此仓库的实时更新信息，您可以点右上角 [![Fork me on Gitee](./img/forkme.svg)](https://gitee.com/yuan625/java-summary-books)感谢您的支持！
 本仓库还在不断开发完善中,如有建议或问题请通Issues反馈！
 
+阅读进入[Pages](http://yuan625.gitee.io/java-summary-books/)
+
 #### 公众号: 窝居java技术站
 更多技术类文章，请扫描下方二维码，关注公众号窝居java技术站
 
