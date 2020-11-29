@@ -1,1 +1,1 @@
-theme: jekyll-theme-cayman
+include: [_sidebar.md]
